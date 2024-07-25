@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @danisshiftikhar
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning Mern Stack
+- 🌱 I’m currently working with Mern Stack
 
 <!---
 danisshiftikhar/danisshiftikhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
