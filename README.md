@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danisshiftikhar
-- 🌱 I’m currently working with Mern Stack
+- 🌱 I’m currently working on Mern Stack
 
 <!---
 danisshiftikhar/danisshiftikhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
